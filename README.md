@@ -6,6 +6,10 @@ The project provides a multi-page online shopping interface where users can brow
 
 > **Note:** This is a front-end project. Payments, backend services and real user accounts are not implemented.
 
+## Preview
+
+![Noire Clothing E-Commerce Website](screenshots/Noire%20Home%20Page.png)
+
 ## Features
 
 The website includes:
@@ -53,6 +57,8 @@ noire-clothing-ecommerce-website/
 ├── img/
 ├── js/
 ├── sass/
+├── screenshots/
+│   └── Home Page.png
 ├── index.html
 ├── men.html
 ├── women.html
